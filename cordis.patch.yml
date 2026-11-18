@@ -1,0 +1,4 @@
+- insert:
+    - id: project-flow-skill
+      name: '@local/project-flow-skill'
+      config: {}

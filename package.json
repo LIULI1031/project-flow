@@ -1,0 +1,26 @@
+{
+  "name": "@local/project-flow-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bundles the project-flow skill into every session of this profile.",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills",
+    "locale/*.json",
+    "icon.svg",
+    "docs",
+    "README.md"
+  ]
+}

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Project flow">
+  <rect width="128" height="128" rx="24" fill="#1b2a4a"/>
+  <g fill="none" stroke="#7fb7ff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="20" y="26" width="34" height="24" rx="6"/>
+    <rect x="74" y="54" width="34" height="24" rx="6"/>
+    <rect x="20" y="82" width="34" height="24" rx="6"/>
+    <path d="M54 38h12a8 8 0 0 1 8 8v8"/>
+    <path d="M74 66h-12a8 8 0 0 0-8 8v8"/>
+  </g>
+  <circle cx="64" cy="64" r="5" fill="#ffd166"/>
+</svg>
